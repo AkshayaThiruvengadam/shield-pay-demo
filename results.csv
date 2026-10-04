@@ -1,0 +1,101 @@
+image_name,attack_type,expected_verdict,predicted_verdict,correct
+legit_M001.png,Legitimate,Trusted,Trusted,1
+legit_M002.png,Legitimate,Trusted,Trusted,1
+legit_M003.png,Legitimate,Trusted,Trusted,1
+legit_M004.png,Legitimate,Trusted,Trusted,1
+legit_M005.png,Legitimate,Trusted,Trusted,1
+legit_M006.png,Legitimate,Trusted,Trusted,1
+legit_M007.png,Legitimate,Trusted,Trusted,1
+legit_M008.png,Legitimate,Trusted,Trusted,1
+legit_M009.png,Legitimate,Trusted,Trusted,1
+legit_M010.png,Legitimate,Trusted,Trusted,1
+legit_M011.png,Legitimate,Trusted,Trusted,1
+legit_M012.png,Legitimate,Trusted,Trusted,1
+legit_M013.png,Legitimate,Trusted,Trusted,1
+legit_M014.png,Legitimate,Trusted,Trusted,1
+legit_M015.png,Legitimate,Trusted,Trusted,1
+legit_M016.png,Legitimate,Trusted,Trusted,1
+legit_M017.png,Legitimate,Trusted,Trusted,1
+legit_M018.png,Legitimate,Trusted,Trusted,1
+legit_M019.png,Legitimate,Trusted,Trusted,1
+legit_M020.png,Legitimate,Trusted,Trusted,1
+legit_M021.png,Legitimate,Trusted,Trusted,1
+legit_M022.png,Legitimate,Trusted,Trusted,1
+legit_M023.png,Legitimate,Trusted,Trusted,1
+legit_M024.png,Legitimate,Trusted,Trusted,1
+legit_M025.png,Legitimate,Trusted,Trusted,1
+suspicious_nameSwap_M001.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M002.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M003.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M004.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M005.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M006.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M007.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M008.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M009.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M010.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M011.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M012.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M013.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M014.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M015.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M016.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M017.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M018.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M019.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M020.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M021.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M022.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M023.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M024.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_nameSwap_M025.png,Wrong Name,Suspicious,Suspicious,1
+suspicious_vpaSwap_M001.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M002.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M003.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M004.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M005.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M006.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M007.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M008.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M009.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M010.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M011.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M012.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M013.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M014.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M015.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M016.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M017.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M018.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M019.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M020.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M021.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M022.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M023.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M024.png,VPA Swap,Suspicious,Suspicious,1
+suspicious_vpaSwap_M025.png,VPA Swap,Suspicious,Suspicious,1
+unverifiable_fakeVpa_M001.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M002.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M003.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M004.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M005.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M006.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M007.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M008.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M009.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M010.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M011.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M012.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M013.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M014.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M015.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M016.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M017.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M018.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M019.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M020.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M021.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M022.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M023.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M024.png,Fake VPA,Unverifiable,Unverifiable,1
+unverifiable_fakeVpa_M025.png,Fake VPA,Unverifiable,Unverifiable,1

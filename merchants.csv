@@ -1,0 +1,27 @@
+merchant_id,vpa,merchant_name,category_code,shop_address,latitude,longitude,radius_m
+M001,rameshstores@okaxis,Ramesh Stores,5411,"Fictional Demo Shop M001, Sample Street, Chengalpattu, Tamil Nadu",12.6819,79.9888
+M002,priyabakery@okhdfcbank,Priya Bakery,5462,"Fictional Demo Shop M002, Sample Street, Tambaram, Chennai, Tamil Nadu",12.9249,80.1000
+M003,sunshoes@okicici,Sun Shoe Mart,5661,"Fictional Demo Shop M003, Sample Street, Chromepet, Chennai, Tamil Nadu",12.9516,80.1462
+M004,greenmart@oksbi,Green Mart Grocers,5411,"Fictional Demo Shop M004, Sample Street, Guindy, Chennai, Tamil Nadu",13.0067,80.2206
+M005,citypharma@okaxis,City Pharmacy,5912,"Fictional Demo Shop M005, Sample Street, Mylapore, Chennai, Tamil Nadu",13.0339,80.2619
+M006,rajucafe@okhdfcbank,Raju Cafe,5814,"Fictional Demo Shop M006, Sample Street, Anna Nagar, Chennai, Tamil Nadu",13.0857,80.2094
+M007,starmobiles@okicici,Star Mobiles,5732,"Fictional Demo Shop M007, Sample Street, T Nagar, Chennai, Tamil Nadu",13.0418,80.2337
+M008,goldjewels@oksbi,Gold Jewels,5944,"Fictional Demo Shop M008, Sample Street, Sowcarpet, Chennai, Tamil Nadu",13.0925,80.2787
+M009,fashionhub@okaxis,Fashion Hub,5651,"Fictional Demo Shop M009, Sample Street, Velachery, Chennai, Tamil Nadu",12.9815,80.2180
+M010,dailyneeds@okhdfcbank,Daily Needs Store,5411,"Fictional Demo Shop M010, Sample Street, Porur, Chennai, Tamil Nadu",13.0350,80.1570
+M011,quickfuel@okicici,Quick Fuel Station,5541,"Fictional Demo Shop M011, Sample Street, Madhavaram, Chennai, Tamil Nadu",13.1480,80.2310
+M012,booknook@oksbi,Book Nook,5942,"Fictional Demo Shop M012, Sample Street, Adyar, Chennai, Tamil Nadu",13.0063,80.2570
+M013,freshveggies@okaxis,Fresh Veggies Corner,5499,"Fictional Demo Shop M013, Sample Street, Koyambedu, Chennai, Tamil Nadu",13.0694,80.1948
+M014,techzone@okhdfcbank,Tech Zone,5732,"Fictional Demo Shop M014, Sample Street, Thoraipakkam, Chennai, Tamil Nadu",12.9497,80.2392
+M015,spicegarden@okicici,Spice Garden Restaurant,5812,"Fictional Demo Shop M015, Sample Street, Nungambakkam, Chennai, Tamil Nadu",13.0569,80.2504
+M016,autoparts@oksbi,Auto Parts Hub,5533,"Fictional Demo Shop M016, Sample Street, Ambattur, Chennai, Tamil Nadu",13.1143,80.1548
+M017,beautycare@okaxis,Beauty Care Salon,7230,"Fictional Demo Shop M017, Sample Street, Velachery, Chennai, Tamil Nadu",12.9778,80.2215
+M018,sportsworld@okhdfcbank,Sports World,5941,"Fictional Demo Shop M018, Sample Street, Mogappair, Chennai, Tamil Nadu",13.0836,80.1750
+M019,toyland@okicici,Toy Land,5945,"Fictional Demo Shop M019, Sample Street, Perambur, Chennai, Tamil Nadu",13.1169,80.2330
+M020,petcorner@oksbi,Pet Corner,5995,"Fictional Demo Shop M020, Sample Street, Besant Nagar, Chennai, Tamil Nadu",13.0002,80.2668
+M021,laundrypro@okaxis,Laundry Pro,7211,"Fictional Demo Shop M021, Sample Street, Kilpauk, Chennai, Tamil Nadu",13.0835,80.2421
+M022,opticals@okhdfcbank,Clear Vision Opticals,8042,"Fictional Demo Shop M022, Sample Street, Egmore, Chennai, Tamil Nadu",13.0732,80.2609
+M023,hardwaremart@okicici,Hardware Mart,5251,"Fictional Demo Shop M023, Sample Street, Poonamallee, Chennai, Tamil Nadu",13.0471,80.0946
+M024,dairyfresh@oksbi,Dairy Fresh Shop,5451,"Fictional Demo Shop M024, Sample Street, Pallavaram, Chennai, Tamil Nadu",12.9675,80.1491
+M025,stationeryhub@okaxis,Stationery Hub,5943,"Fictional Demo Shop M025, Sample Street, Triplicane, Chennai, Tamil Nadu",13.0560,80.2770,
+M026,choolaidemo@okaxis,Choolai Demo Store,5411,"Fictional demo point near Choolai, Chennai; not a real merchant",13.0910,80.2650,2000

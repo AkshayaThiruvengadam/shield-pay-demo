@@ -1,0 +1,9 @@
+flask
+pillow
+pyzbar
+qrcode[pil]
+numpy
+opencv-python-headless
+scikit-learn
+requests
+gunicorn
